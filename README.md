@@ -1,4 +1,6 @@
 <img width="1515" height="731" alt="PP2" src="https://github.com/user-attachments/assets/416dac6d-92ad-4558-931a-5ed1c079bbe6" />
+                                                                          
+                                                                             
                                                                              Madhav Sales E-Commerce Dashboard
 
 This project showcases an interactive E-Commerce Sales Dashboard designed to analyze business performance across multiple dimensions such as revenue, profit, customer behavior, and product categories. The dashboard provides a comprehensive view of key metrics to support data-driven decision-making.
